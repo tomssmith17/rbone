@@ -27,4 +27,4 @@ e = "e  lion"
 
 metallica = "sleep now in the fire"
 
-ssh-keygen –t rsa –b 4096 –C "YOURGITHUBEMAIL@PLACEHOLDER.NET"
+hi = "yayayayya"
