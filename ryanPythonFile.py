@@ -6,6 +6,12 @@ c = "send helpppp!!! SOS"
 
 print(a+b+c)
 
+z = "zoo"
+
+y = "yellow"
+
+u = "umbrella-unit"
+
 g = "g lion"
 
 p = "p lion"
@@ -20,3 +26,4 @@ e = "e  lion"
 #master of puppets
 
 metallica = "sleep now in the fire"
+
