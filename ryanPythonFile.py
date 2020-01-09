@@ -6,3 +6,9 @@ c = "send helpppp!!! SOS"
 
 print(a+b+c)
 
+z = "zoo"
+
+y = "yellow"
+
+u = "umbrella-unit"
+
