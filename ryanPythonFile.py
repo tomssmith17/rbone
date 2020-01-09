@@ -9,3 +9,8 @@ for i in arr1:
 
 c = "sealion"
 
+g = "g lion"
+
+p = "p lion"
+
+e = "e  lion"
