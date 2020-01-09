@@ -20,14 +20,6 @@ GUNIT="GGGGGGGUNIT"
 
 e = "e  lion"
 
-
-#newww code below frommm tboneee
-
-oh = "take on meeeeee"
-
-yeah = "take me onnnnnnn"
-
-ohYeah = "ill be ther for you"
 #more stufffff
 #bout to mess this github up 
 
@@ -35,4 +27,4 @@ ohYeah = "ill be ther for you"
 
 metallica = "sleep now in the fire"
 
-# this is an edit
+ssh-keygen –t rsa –b 4096 –C "YOURGITHUBEMAIL@PLACEHOLDER.NET"
