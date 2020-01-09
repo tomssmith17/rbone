@@ -1,11 +1,8 @@
-ryan = "awesome"
+ryan = "awesome, i mean maybe"
 
-tommy = "hello"
+a = "why we have no water, "
+b = "im thirstyyyyyy, "
+c = "send helpppp!!! SOS"
 
-arr1=[1,2,3,4]
-
-for i in arr1:
-    print(i)  
-
-c = "sealion"
+print(a+b+c)
 
